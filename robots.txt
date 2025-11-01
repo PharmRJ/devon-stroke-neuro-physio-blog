@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pharmrj.github.io/devon-stroke-neuro-physio-blog/sitemap.xml
